@@ -1,0 +1,76 @@
+nav {
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    height: 60px;
+}
+
+
+.main-navigation {
+    display: flex;
+    justify-content: center;
+    padding: 12px 30px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    padding-top: 250px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 200px
+}
+
+h1 {
+    font-size: 35px;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: blue; */
+    padding-top: 30px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 0px
+}
+
+h2 {
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua; */
+    padding-bottom: 300px;
+
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#DeadpoolEnd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    width: 100%;
+}
