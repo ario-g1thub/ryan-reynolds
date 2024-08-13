@@ -1,0 +1,38 @@
+/* Penampung => JS => variabel
+variabel => keyword => var, let, const
+
+Bagaimana cara membuat variabel?
+keyword banaVariabel = valueVariabel
+
+valueVariabel => tipe data yang ingin dimasukan
+'value' diambil dari atribut yang ada di HTML
+
+Console.log(); => function dari JS yang gunanya untuk menampilkan
+
+DOM
+ * DOM
+ * Document Object Model => Manipulasi => Kebutuhan
+
+ targetnya siapa => penanda (id/class)
+ silahkan lakukan manipulasi
+
+ inputw3
+ id=result
+ let idResult = document.getElementById('result')
+ let idResult = document.getElementByClass('x')
+ input type number = hanya bisa memasukan angka
+ input type text = hanya bisa memasukan tulisan
+ "Value=Lintang" = Bisa mengisi suatu elemen ke dalam content
+ "value=show result" = 
+
+ Gimana caranya mengganti "pencet a, hasilnya jadi a di kalkulator"
+ function => kumpulan kode untuk tugas tertentu
+ keywordnya => function namaFunction(){}
+
+ event listener => 
+ onclick="clearresult()"
+ 
+ eval=> eksekusi matematika
+
+ typeof idResult.value
+*/
